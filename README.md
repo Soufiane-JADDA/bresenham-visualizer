@@ -91,7 +91,7 @@ gfx.draw_circle(Point(0, 0), 20, color='green')
 
 **Soufiane JADDA**
 
-* 🎓 Computer Science Student
+* 🎓 Data Science Student
 * 🔗 [GitHub Profile](https://github.com/Soufiane-JADDA)
 
 ---
