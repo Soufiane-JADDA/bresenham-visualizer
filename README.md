@@ -1,5 +1,7 @@
 # 🖋️ Bresenham Drawing Visualizer
 
+<img src="Bresenham_algo.png"/>
+
 This project is a graphical implementation of **Bresenham's Line and Circle Drawing Algorithms** using Python's `turtle` module. It allows you to visually trace lines and circles pixel by pixel, simulating how they would be drawn on a raster display.
 
 ---
